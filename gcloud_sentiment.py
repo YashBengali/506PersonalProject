@@ -5,7 +5,7 @@ import csv
 def valence_from_tweets():
     df = pd.read_csv('tweets.csv')
     client = language.LanguageServiceClient()
-    sentimentFile = open('sentiments.csv', 'a')
+    sentimentFile = open('sentiments_new.csv', 'a')
     csvWriter = csv.writer(sentimentFile)
     csvWriter.writerow(['SCORE','MAGNITUDE'])
     for tweet in df['CONTENT']:
