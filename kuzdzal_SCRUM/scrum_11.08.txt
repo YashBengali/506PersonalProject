@@ -1,0 +1,15 @@
+What have I worked on?
+---------------------------------------------------------------------------------
+This week I developed the finalized script for scraping tweets, meeting the previously sought attributes (saving to csv and removing duplicates). Doing this also took care of any preprocessing. Also scraped initial set of tweets.
+
+What will I be working on next?
+---------------------------------------------------------------------------------
+Now that we have a way of collecting data, I will next be looking into a different form of sentiment analysis from NLTK, which Yash and Carlos are using. Particularly, Conor and I will be looking at Google Cloud's Natural Language Processing API.
+
+Have I run into any issues? Do I need help?
+---------------------------------------------------------------------------------
+No issues this week, however no workaround was found for the 7-day scraping limitation. Python libraries that once bypassed this are no longer working, so will need to continuously get tweets as the semester progresses.
+
+Have I talked to the client recently? When are we meeting with them next?
+---------------------------------------------------------------------------------
+Not applicable. We worked on a personal project, so we did not have to meet with a client.

@@ -1,0 +1,16 @@
+What have I worked on?
+---------------------------------------------------------------------------------
+Started by getting another batch of tweets (past week) regarding the keyword $AAPL. Also began looking into sentiment analysis using Google's Api + reran analyses using different variations of stock data (aka using tweets to predict stock price of next day; predict same day).
+
+
+What will I be working on next?
+---------------------------------------------------------------------------------
+Ideally will get the Google Cloud sentiment analysis done next. Hopefully this will provide more promising results, as compared to Python's NLTK.
+
+Have I run into any issues? Do I need help?
+---------------------------------------------------------------------------------
+Small issue trying to set up the Google Cloud sentiment analysis, due to expired credits. Will work around by setting up trial account that gives a number of free services.
+
+Have I talked to the client recently? When are we meeting with them next?
+---------------------------------------------------------------------------------
+Not applicable. We worked on a personal project, so we did not have to meet with a client.

@@ -1,0 +1,15 @@
+What have I worked on?
+---------------------------------------------------------------------------------
+Started by getting another batch of tweets (past week) regarding the keyword $AAPL. Performed analysis on Kaggle dataset using Google API.
+
+What will I be working on next?
+---------------------------------------------------------------------------------
+Need to start looking into combining all the data that our team has been gathering, so as to form the initial version of our final deliverable.
+
+Have I run into any issues? Do I need help?
+---------------------------------------------------------------------------------
+Small hiccup getting Google Cloud to interact with our Python script, but quickly fixed using their official documentation.
+
+Have I talked to the client recently? When are we meeting with them next?
+---------------------------------------------------------------------------------
+Not applicable. We worked on a personal project, so we did not have to meet with a client.

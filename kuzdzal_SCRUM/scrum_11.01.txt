@@ -1,0 +1,15 @@
+What have I worked on?
+---------------------------------------------------------------------------------
+This week I took a look into the official Python library that interacts with the Twitter API. I used this information to develop an initial script for scraping tweets (manually selecting the amount of tweets to acquire and printing them to console with all their attributes).
+
+What will I be working on next?
+---------------------------------------------------------------------------------
+The next step I will be taking is formalizing the scraping script, so as to scrape the maximum amount of tweets possible, retrieve their respective/applicable attributes, and save these into a csv file, removing duplicates.
+
+Have I run into any issues? Do I need help?
+---------------------------------------------------------------------------------
+No notable issues have yet been encountered, however there is one aspect we will need to work around. Specifically, the Twitter limits us to scraping tweets from only the last week. I will try to use some external libraries to bypass the limitation.
+
+Have I talked to the client recently? When are we meeting with them next?
+---------------------------------------------------------------------------------
+Not applicable. We worked on a personal project, so we did not have to meet with a client.
