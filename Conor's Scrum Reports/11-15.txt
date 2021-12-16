@@ -1,0 +1,7 @@
+This week I worked on actually using Google's Natural Language Processing API
+to the sentiment of tweets. I had to create an account and then 
+send the text of the tweets and a score was returned. Next week I'm going
+to work on actually do analysis with that data. The biggest issue this week
+is that it costs money to actually use Google's API so we were only to do a limited
+number of tweets, and there really isn't anyway around that other than finding
+some other form of sentiment analysis that works. 

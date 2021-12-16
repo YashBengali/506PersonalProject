@@ -1,0 +1,12 @@
+This week I worked on building a sentiment analysis tool based
+on stocks. I found a kaggle dataset that contains stock 
+tweets that are labelled as positive or negative. Based on that I 
+created a model that determines if a tweet fits that definition of 
+positive or negative. Then I fed new tweets into that model to get scores.
+Then I did the same type of analysis that I did last week using the 
+Google API scores. Next week I will work on the final project. 
+The biggest issue is that the dataset that I used
+to create the model is not very big and does not have clear guidelines
+to what a tweet being positive entails, there are also some tweets
+that are not clearly positive or clearly negative so it is unclear what 
+the policy in dealing with those tweets are. 

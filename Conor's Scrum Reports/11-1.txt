@@ -1,0 +1,8 @@
+I worked on scrapping tweets about companies other than Apple. I speciffically looked at Etherium becuase
+I think it would be interesting to see if what we learn about the stock market applies to something
+newer like cryptocurrency which has been studied a lot less. Since Twitter has buffed their anti-scrapping 
+policies, really the only way to do it is through their api and using a thrid party tool like tweepy.
+I was able to gather quite a few tweets, although a lot of them are retweets, so in the future I 
+will trim down the data so everything is more useful. I will also continue scrapping and maybe look into
+how to do sentiment analysis. The biggest issue is lack of available tweets, it would be helpful if there 
+was already a dataset that contained all of the Etherium tweets, but that doesn't seem to exist. 

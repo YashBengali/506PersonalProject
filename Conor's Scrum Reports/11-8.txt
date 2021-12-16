@@ -1,0 +1,8 @@
+This week I looked into different types of sentiment analysis. Yash is looking
+into just using the NLTK package. I'm thinking of using Google's Natural
+Language Processing API because I have used it in the past, or doing a more
+stock centric way of doing it.  Next week I'm going to work on actually implementing 
+the different types of sentiment analysis. Last week I was focusing on getting Etherium
+tweets but I just don't think I'm going to have enough meaningful data 
+to reach any real conclusions, so unless I can find a dataset that already exists our
+project will be Apple only.

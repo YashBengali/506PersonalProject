@@ -1,0 +1,9 @@
+This week I looked into doing analysis using the scores that we got 
+from the Google API. The general idea is to group the tweets by the 
+day that they were tweeted and find the average sentiment for that day.
+Beyond that, I tried a bunch of different variations of that, including
+only looking at tweets that had a certain number of likes or looking a different
+alignment of days and so on. We were able to find some pretty promising results. 
+Next week I will work on devolping a more stock centric sentiment analysis tool.
+The big issue is that we do not have sentiment scores for that many tweets due to 
+the finacial limitations of Google's API.
